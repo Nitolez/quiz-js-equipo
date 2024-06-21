@@ -2,7 +2,9 @@
 <a href="https://sergiolm7.github.io/quiz-js-equipo/" target="_blank"> <img src="./assets/images/banner-quiz.jpg"/></a> 
 
 **Link**: https://sergiolm7.github.io/quiz-js-equipo/
+
 **PPTX**: https://www.canva.com/design/DAGIshUCWhw/JKmFn2RY-G2HDCyb9VJ1hw/edit
+
 **Description**: This is a quiz application that displays 10 random quiz questions and saves your results. It also shows an overall ranking with top 10 results and also a stats section with your own last 10 tries punctuations displayed in a chart.
 
 ## Technologies Used
